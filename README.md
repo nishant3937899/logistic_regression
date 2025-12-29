@@ -7,14 +7,7 @@ The project demonstrates **proper EDA, preprocessing with pipelines, model train
 
 ## 📌 Problem Statement
 
-Given user information such as:
-- Time spent on a website
-- Age
-- Area income
-- Daily internet usage
-- Gender
-
-The goal is to predict whether the user **clicked on an advertisement** (`Clicked on Ad = 1`) or not (`0`).
+The goal is to predict whether the user **clicked on an advertisement** (`Clicked on Ad = 1`) or not (`0`) from the given data.
 
 This is a **binary classification problem**, making Logistic Regression a suitable baseline model.
 
@@ -103,3 +96,4 @@ We implement **Logistic Regression** using `sklearn`:
 ## 🙌 Author
 
 Nishant Chandra Verma
+
