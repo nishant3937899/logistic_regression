@@ -1,4 +1,4 @@
-# Logistic Regression – Ad Click Prediction
+# Logistic Regression
 
 This project implements a **Logistic Regression classification model** to predict whether a user will **click on an online advertisement** based on demographic and behavioral features.  
 The project demonstrates **proper EDA, preprocessing with pipelines, model training, evaluation, and interpretation** following machine-learning best practices.
@@ -96,4 +96,5 @@ We implement **Logistic Regression** using `sklearn`:
 ## 🙌 Author
 
 Nishant Chandra Verma
+
 
